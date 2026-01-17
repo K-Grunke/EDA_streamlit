@@ -1,0 +1,8 @@
+# config.toml - wygląd aplikacji
+
+[theme]
+primaryColor = "#1DB954"          # zielony kontrast
+backgroundColor = "#121212"       # ciemne tło
+secondaryBackgroundColor = "#181818"  # ciemniejsze elementy
+textColor = "#FFFFFF"              # biały tekst
+font = "sans serif"
