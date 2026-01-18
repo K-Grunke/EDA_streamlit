@@ -8,14 +8,15 @@
 ## 👨‍🎓 Informacje o autorze
 
 **Imię i nazwisko:** Konrad Grünke  
-**Kontakt:** konrad.grunke@gmail.com  
-**LinkedIn:** linkedin.com/in/konrad-grunke/
+**Kontakt:** konrad.grunke@gmail.com 
+**LinkedIn:** [linkedin.com/in/konrad-grunke/](https://www.linkedin.com/in/konrad-grunke/)
 
 ## 👋 Hej! Witaj w moim studenckim projekcie!
 
 To jest interaktywny dashboard do analizy wynagrodzeń w branży Data Science na przestrzeni lat 2020-2025. 
-Powstał jako projekt studencki, ale rozrósł się w całkiem fajne narzędzie do eksploracji danych!
-Ten projekt **NIE JEST** zaawansowaną analizą danych. Analiza nie jest szczególnie głęboka i ciężko wyciągnąć z niej "kosmiczne" wnioski analityczne.  
+Powstał jako projekt studencki, ale rozrósł się w całkiem fajne narzędzie do eksploracji danych!  
+Ten projekt **NIE JEST** zaawansowaną analizą danych.  
+Analiza nie jest szczególnie głęboka i ciężko wyciągnąć z niej "kosmiczne" wnioski analityczne.   
 To pokaz technologii, nie zaawansowanej analizy!
 
 ## 🎯 Co tu znajdziesz?
@@ -48,14 +49,14 @@ To pokaz technologii, nie zaawansowanej analizy!
    ```
    
 2. **Zainstaluj zależności:**
-```
-pip install -r requirements.txt
-```
+   ```
+   pip install -r requirements.txt
+   ```
 
 3. Uruchom aplikację:
-```
-streamlit run app/app.py
-```
+   ```
+   streamlit run app/app.py
+   ```
 
 4. Otwórz przeglądarkę i przejdź do: http://localhost:8501 (jeśli nie stało się to automatycznie)
 
