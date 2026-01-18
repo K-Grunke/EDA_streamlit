@@ -1,5 +1,3 @@
-This data set is made available by ai-jobs.net Salaries. Thank you for aggregating this information!
-
 # 📊 Opis danych
 
 ## Pliki danych
@@ -8,7 +6,17 @@ This data set is made available by ai-jobs.net Salaries. Thank you for aggregati
 2. **DataScience_salaries_2025.json** - Ten sam zbiór danych w formacie JSON
 
 ## Źródło danych
+
 This data set is made available by ai-jobs.net Salaries. Thank you for aggregating this information!
+Ten zbiór danych jest udostępniany przez ai-jobs.net Salaries. Dziękujemy za zebranie tych informacji!
+
+Skąd pobrałem dane ? 
+https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024/data
+
+## Metody pozyskiwania
+
+Data was collected through surveys, job postings, and public disclosures from various sources within the industry.
+Dane zbierano za pomocą ankiet, ogłoszeń o pracę i informacji publicznych pochodzących z różnych źródeł w branży.
 
 ## Struktura danych
 
