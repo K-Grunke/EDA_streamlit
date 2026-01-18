@@ -1,10 +1,8 @@
-# load_data.py
 import pandas as pd
 
 def load_data(path: str):
-    """
-    Wczytuje plik CSV i konwertuje kolumny do odpowiednich typów.
-    """
+    # Wczytuje plik CSV i konwertuje kolumny do odpowiednich typów.
+    
     df = pd.read_csv(path)
 
     # Upewnij się, że salary_in_usd jest float

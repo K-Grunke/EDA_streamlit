@@ -1,8 +1,10 @@
-# config.toml - wygląd aplikacji
-
 [theme]
-primaryColor = "#1DB954"          # zielony kontrast
-backgroundColor = "#121212"       # ciemne tło
-secondaryBackgroundColor = "#181818"  # ciemniejsze elementy
-textColor = "#FFFFFF"              # biały tekst
+primaryColor = "#1DB954"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"
 font = "sans serif"
+
+[browser]
+# 🌐 KONFIGURACJA PRZEGLĄDARKI
+gatherUsageStats = false # 📊 WYŁĄCZ TELEMETRIĘ (dla prywatności)
