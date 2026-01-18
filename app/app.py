@@ -2,8 +2,7 @@ import streamlit as st
 import os
 import sys
 
-# 🔧 WAŻNE: Streamlit nie dodaje automatycznie katalogów do sys.path
-# Musimy ręcznie dodać ścieżkę do src, żeby importy działały
+# Ręczne dodanie ścieżki do src, żeby importy działały
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 try:
@@ -16,8 +15,6 @@ except ImportError as e:
     st.stop()
 
 # 🎨 CUSTOM CSS DLA STREAMLIT
-# Streamlit pozwala na custom stylizację przez unsafe_allow_html=True
-# To jedyne miejsce gdzie używamy HTML/CSS bezpośrednio
 st.markdown(""" 
 <style>
 div.stButton > button {

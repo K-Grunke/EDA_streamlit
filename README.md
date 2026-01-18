@@ -8,7 +8,7 @@
 ## 👨‍🎓 Informacje o autorze
 
 **Imię i nazwisko:** Konrad Grünke  
-**Kontakt:** konrad.grunke@gmail.com 
+**Kontakt:** konrad.grunke@gmail.com  
 **LinkedIn:** [linkedin.com/in/konrad-grunke/](https://www.linkedin.com/in/konrad-grunke/)
 
 ## 👋 Hej! Witaj w moim studenckim projekcie!
@@ -62,7 +62,7 @@ To pokaz technologii, nie zaawansowanej analizy!
 
 ## 📁 Struktura projektu
 
-eda-streamlit-app/  
+EDA-streamlit/  
 ├── app/              # Główna aplikacja Streamlit  
 ├── src/              # Kod źródłowy (moduły Pythona)  
 ├── data/             # Dane CSV i JSON  
